@@ -1,0 +1,43 @@
+/* h1{
+    color: maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+.user{
+    font-style: italic;
+}
+.content{
+    background-color: aqua;
+} */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.post .user {
+    font-weight: bold;
+    color: #0077cc;
+}
+
+.post .content {
+    margin-top: 10px;
+    font-size: 1.1em;
+}
